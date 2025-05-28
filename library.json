@@ -1,0 +1,23 @@
+{
+  "name": "ioLibrary_Driver",
+  "version": "1.0.0",
+  "description": "Ethernet library driver for WIZnet chips",
+  "keywords": "ethernet, wiznet, w5500, w5100, network",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OptifySudarshanPatil/ioLibrary_Driver.git"
+  },
+  "authors": [
+    {
+      "name": "OptifySudarshanPatil",
+      "url": "https://github.com/OptifySudarshanPatil"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "build": {
+    "srcDir": ".",
+    "includeDir": "."
+  }
+}
